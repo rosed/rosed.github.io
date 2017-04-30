@@ -151,6 +151,18 @@ Responsive media queries
 	background-color: #efefef;
 }
 
+#portfolio-text p{
+    color:#292929;
+}
+
+#portfolio-sec{
+    background-color:#efefef;
+    display:block;
+    font-size:14px;
+    line-height:20px;
+    padding:15px;
+    position:relative;
+}
 #policy{
     background-color: #f6f6f6;
 }

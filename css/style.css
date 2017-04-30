@@ -68,7 +68,7 @@ Responsive media queries
     outline: none;
 }
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-    color: #494949;
+    color: #efefef;
     background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
@@ -241,7 +241,7 @@ footer {
 }
 
 .footer a {
-    color: #494949;
+    color: #efefef;
 }
 
 .footer__navigation li, .social-list li{
@@ -297,7 +297,7 @@ footer {
 		margin-right: 15px;
 }
 .type-underline, .type-underline:hover{
-	color: #767676; 
+	color: #efefef; 
 }
 .footer__lower {
     margin-top: 3.25em;

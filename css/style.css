@@ -39,7 +39,7 @@ a:hover, a:focus, a:active{
 
 #rcorners{
     border-radius:25px;
-    background: url('../img/prof.jpg');
+    -moz-border-radius: 25px;
 }
 /***********************************
 ************************************

@@ -37,10 +37,6 @@ a:hover, a:focus, a:active{
     outline: none;
 }
 
-#rcorners{
-    border-radius:25px;
-    -moz-border-radius: 25px;
-}
 /***********************************
 ************************************
 Responsive media queries
@@ -153,6 +149,10 @@ Responsive media queries
 }
 #portfolio{
 	background-color: #efefef;
+}
+
+#policy{
+    background-color: #f6f6f6;
 }
 .grid-padding{
 	padding: 0 8px;

@@ -68,7 +68,7 @@ Responsive media queries
     outline: none;
 }
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-    color: #fffde0;
+    color: #494949;
     background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
@@ -146,7 +146,7 @@ Responsive media queries
 	font-weight: 400;
 }
 #portfolio{
-	background-color: #efffff;
+	background-color: #efefef;
 }
 .grid-padding{
 	padding: 0 8px;
@@ -237,11 +237,11 @@ blockquote {
 
 footer {
     padding: 40px 0;
-    background: #efffff;
+    background: #efefef;
 }
 
 .footer a {
-    color: #BE2525;
+    color: #494949;
 }
 
 .footer__navigation li, .social-list li{

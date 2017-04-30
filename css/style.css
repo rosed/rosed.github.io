@@ -167,6 +167,24 @@ Responsive media queries
     padding:15px;
     position:relative;
 }
+
+#tech{
+    background-color:#dfdfdf; 
+}
+
+#tech-text p{
+    color: #272727;
+}
+
+#tech-sec{
+    background: #dfdfdf;
+    display:block;
+    font-size:14px;
+    line-height:20px;
+    padding:15px;
+    position:relative;
+}
+
 .grid-padding{
 	padding: 0 8px;
 }

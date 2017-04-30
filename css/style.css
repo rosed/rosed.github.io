@@ -88,7 +88,7 @@ Responsive media queries
 .navbar-border{
 }
 .banner-text{
-	border-left: 5px solid #BE2525;
+	border-left: 5px solid #454545;
 	padding: 15px 40px;
 	color: #fff;
 	margin-top: 170px;
@@ -134,7 +134,7 @@ Responsive media queries
 }
 .title-text{
 	padding: 0px 25px 0px 0px;
-	border-right: 5px solid #BE2525;
+	border-right: 5px solid #454545;
 	font-size: 24px;
 }
 .about-text p{
@@ -146,7 +146,7 @@ Responsive media queries
 	font-weight: 400;
 }
 #portfolio{
-	background-color: #f0f1e9;
+	background-color: #efffff;
 }
 .grid-padding{
 	padding: 0 8px;
@@ -197,8 +197,8 @@ blockquote {
 }
 
 #contact .btn-primary {
-    background: #BE2525;
-    border: 1px solid #BE2525;
+    background: #454545;
+    border: 1px solid #454545;
 }
 
 .validation {
@@ -237,7 +237,7 @@ blockquote {
 
 footer {
     padding: 40px 0;
-    background: #F2F3EB;
+    background: #efffff;
 }
 
 .footer a {

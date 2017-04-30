@@ -142,6 +142,10 @@ Responsive media queries
 .about-text p{
 	color: #efefef;
 }
+
+.about-text a{
+    color: #afb9ff;
+}
 .abt-list li{
 	padding: 5px 0px;
 	font-size: 18px;
